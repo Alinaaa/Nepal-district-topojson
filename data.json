@@ -1,0 +1,74 @@
+[
+    {
+        "district":"Sindhupalchok",
+        "value" : 32
+    },
+    {
+        "district":"Gorkha",
+        "value" : 23
+    },
+    {
+        "district":"Dhading",
+        "value" : 21
+    },
+    {
+        "district":"Nuwakot",
+        "value" : 19
+    },
+    {
+        "district":"Kavre",
+        "value" : 15
+    },
+    {
+        "district":"Dolakha",
+        "value" : 14
+    },
+    {
+        "district":"Rasuwa",
+        "value" : 12
+    },
+    {
+        "district":"Makwanpur",
+        "value" : 9
+    },
+    {
+        "district":"Lalitpur",
+        "value" : 8
+    },
+    {
+        "district":"Kathmandu",
+        "value" : 6
+    },
+    {
+        "district":"Okhaldhunga",
+        "value" : 6
+    },
+    {
+        "district":"Ramechhap",
+        "value" : 6
+    },
+    {
+        "district":"Lamjung",
+        "value" : 5
+    },
+    {
+        "district":"Sindhuli",
+        "value" : 5
+    },
+    {
+        "district":"Solukhumbu",
+        "value" : 5
+    },
+    {
+        "district":"Bhaktapur",
+        "value" : 3
+    },
+    {
+        "district":"Syangja",
+        "value" : 1
+    },
+    {
+        "district":"Tanahu",
+        "value" : 1
+    }
+]
